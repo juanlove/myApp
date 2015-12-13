@@ -3,6 +3,23 @@ h1, h2, h3, h4, h5, h6, p {
 	padding: 0;
 }
 
+div.h1 {
+	color: white;
+}
+
+.fixed-bg {
+    background-image: url("img_tree.gif"), url("img_flwr.gif");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumboPadding {
+	padding-top: 50px;
+}
+
 p {
 	margin: 0 0 1em 0;
 	font-size: 93%;
