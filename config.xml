@@ -24,6 +24,6 @@
     <!-- Your plugin code -->
     <gap:plugin name="nl.x-services.plugins.socialsharing" /> <!-- Social Sharing -->
 
-   <icon src="icon.png" />
+   <icon src="icon.png" platform="android" width="180" height="180" />
 
 </widget>
