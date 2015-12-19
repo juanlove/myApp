@@ -66,6 +66,10 @@ div.one-third-last {
 	margin: 0;
 }
 
+div.video {}
+	width: 65%;
+}
+
 /* Main Column */
 div.main {
 	width: 65%;
