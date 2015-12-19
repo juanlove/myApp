@@ -1,1 +1,23 @@
-<plugin name="nl.x-services.plugins.socialsharing" spec="4.3.8" source="pgb" />
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Juan Urena</name>
+
+    <description>
+        Guitar Life App for IAD3 
+    </description>
+
+    <author href="https://build.phonegap.com" email="juan.a.urena@gmail.com">
+        Juan Urena
+    </author>
+
+
+<gap:plugin name="nl.x-services.plugins.socialsharing" spec="4.3.8" source="pgb">
+
+</widget>
