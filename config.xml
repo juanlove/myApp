@@ -24,4 +24,8 @@
     <!-- Your plugin code -->
     <gap:plugin name="nl.x-services.plugins.socialsharing" /> <!-- Social Sharing -->
 
+    <platform name="android">
+    <icon src="images/guitarlogo.png" width="180" height="180" />
+    </platform>
+
 </widget>
