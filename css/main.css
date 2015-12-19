@@ -7,18 +7,21 @@ div.h1 {
 	color: white;
 }
 
-.fixed-bg {
-    background-image: url("img_tree.gif"), url("img_flwr.gif");
-    min-height: 500px;
+
+
+.jumboPadding {
+	padding-top: 50px;
+}
+
+div.fixed-bg {
+    background-image: url("../images/guitarback.jpg");
+    min-height: 200px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.jumboPadding {
-	padding-top: 50px;
-}
 
 p {
 	margin: 0 0 1em 0;
@@ -46,6 +49,7 @@ div.body-content {
 	padding: 50px 0;
 	background-color: #FFF;
 }
+
 
 /* Thirds */
 div.thirds {
