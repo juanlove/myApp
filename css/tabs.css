@@ -10,8 +10,9 @@
 .mix {
   display: none;
   text-align: center;
-  width: 23%;
-  margin: 1em 1%;
+  width: 100px;
+  height: 100px;
+  margin: 1% 1em;
   background-color: #ccc;
 }
 
