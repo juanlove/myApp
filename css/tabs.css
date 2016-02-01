@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+.canister {
+  width: 75%;
+  margin: 5em auto;
+}
+
+.mix {
+  display: none;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  margin: 1% 1em;
+  background-color: #ccc;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+button {
+  background: #666666;
+  border: none;
+  color: white;
+  padding: .65em;
+  border-radius: 5px;
+}
+
+input {
+  padding: .5em;
+}
+
+.title {
+  font-weight: 2em;
+}
